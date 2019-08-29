@@ -1,2 +1,6 @@
 Hello
-Bye Bye
+<<<<<<< HEAD
+Welcome to India
+=======
+How are you?
+>>>>>>> dev
